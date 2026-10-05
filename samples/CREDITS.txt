@@ -1,0 +1,8 @@
+Recorded samples used by the "Recorded samples" sound source (trimmed, level-matched and re-encoded):
+
+Piano      Salamander Grand Piano V2 (Yamaha C5) by Alexander Holm. Licence: CC BY 3.0.
+           https://archive.org/details/SalamanderGrandPianoV3  (via github.com/Tonejs/audio)
+Harmonium  "harmonium samples all keys and drones" by donyaquick, Freesound #330410
+           (via github.com/nbrosowsky/tonejs-instruments). Check the Freesound page for its licence terms.
+Flute      VSCO 2 Community Edition (CC0), via tonejs-instruments, MIT licence, N. P. Brosowsky.
+Xylophone  VSCO 2 Community Edition (CC0), via tonejs-instruments, MIT licence, N. P. Brosowsky.
